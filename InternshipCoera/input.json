@@ -1,0 +1,9 @@
+{
+  "employeeData": {
+  "employmentStartDate": "2019-01-01", 
+  "employmentEndDate": "2019-12-31",
+  "suspensionPeriodList": [
+         {"startDate":  "2019-03-01", "endDate": "2019-08-31" }  	
+ ]
+  }
+}
